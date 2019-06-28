@@ -12,4 +12,5 @@ def view(id1):
            print("error")
         for x in cur:
             print(x)
+            print("hi")
 
